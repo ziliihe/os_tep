@@ -1,0 +1,6 @@
+[submodule "chapter02/3rd"]
+	path = chapter02/3rd
+	url = git@github.com:remzi-arpacidusseau/ostep-homework.git
+[submodule "3rd"]
+	path = 3rd
+	url = git@github.com:remzi-arpacidusseau/ostep-homework.git
