@@ -25,3 +25,8 @@ out/wait_sub_proc
 ECHO "run different program"
 gcc -o out/run_diff_prog run_diff_prog.c -Wall
 out/run_diff_prog
+
+ECHO "redirect"
+gcc -o out/redirect redirect.c -Wall
+out/redirect
+cat out/redirect.output
