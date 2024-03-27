@@ -31,3 +31,32 @@ ECHO "homework 03 pipe"
 target=hw03_pipe
 gcc -o out/${target} ${target}.c -Wall
 out/${target}
+
+ECHO "homework 04"
+target=hw04
+gcc -o out/${target} ${target}.c -Wall
+out/${target} 1
+out/${target} 2
+out/${target} 3
+out/${target} 4
+out/${target} 5
+
+ECHO "homework 05"
+target=hw05
+gcc -o out/${target} ${target}.c -Wall
+out/${target}
+
+ECHO "homework 06"
+target=hw06
+gcc -o out/${target} ${target}.c -Wall
+out/${target}
+
+ECHO "homework 07"
+target=hw07
+gcc -o out/${target} ${target}.c -Wall
+out/${target}
+
+ECHO "homework 08"
+target=hw08
+gcc -o out/${target} ${target}.c -Wall
+out/${target}
